@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ACKeyboardObserver', :exclusive => true do
+  pod "ACKeyboardObserver", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "ACKeyboardObserver", :path => "../"
+
+  
+end

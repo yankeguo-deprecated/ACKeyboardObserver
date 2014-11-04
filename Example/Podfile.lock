@@ -1,0 +1,14 @@
+PODS:
+  - ACKeyboardObserver (0.1.0)
+
+DEPENDENCIES:
+  - ACKeyboardObserver (from `../`)
+
+EXTERNAL SOURCES:
+  ACKeyboardObserver:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ACKeyboardObserver: 4e2ddd3e0d4f8624ea6eed9d1b2a3fcd474b8d2e
+
+COCOAPODS: 0.34.4
